@@ -179,7 +179,6 @@ Create a **file** (not a folder) called `README.md` inside `my-repository`.
 If you run `git status` at the command line, you should see that `README.md`
 is now listed as an untracked file. Add `README.md` so that it is tracked by
 Git.
-
 #### Step 6
 
 Once the file is tracked, running `git status` again will show that
